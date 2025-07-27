@@ -4,7 +4,7 @@ public class Ram {
 	
 	public static void main(String[] args) {
 		
-System.out.println("java programmdfs to connect with");
+System.out.println("java programmdfs to cosaqannect with");
 	}
 
 }
